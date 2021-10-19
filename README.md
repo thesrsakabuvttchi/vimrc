@@ -10,3 +10,5 @@ My .vimrc config, packages included:
 Other requirements:
 Coc.vim requires nodejs >= 12.12
 Coc.vim requires vim version 8.0 or greater
+
+![example](./view.png)
